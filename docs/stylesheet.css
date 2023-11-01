@@ -14,7 +14,15 @@
   flex-direction: column;
 }
 /* font-size設定 */
-h1 {
+#otsu {
+  justify-self: center;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: rgba(242, 235, 19, 0.83);
+}
+#all_container h1 {
   font-size: 30px;
 }
 
